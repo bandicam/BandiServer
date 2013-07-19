@@ -54,3 +54,7 @@ simulator.js
 tools.js
 users.js
 verifier.js
+config/config.js
+config/commands.js
+config/custom.css
+config/avatars
