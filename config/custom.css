@@ -1,0 +1,41 @@
+   .mainmenuwrapper {
+        color: rgb(113, 27, 121);
+        font-size: 11pt;
+        font-family: Verdana,Helvetica,Arial,sans-serif;
+        background: url("http://farm5.staticflickr.com/4051/4663432647_c1572719cc_z.jpg") no-repeat scroll right top rgb(63, 38, 70);
+    }
+    
+    .chat-log {
+    font-size: 10pt;
+    background: url("http://i.imgur.com/NSCfrwC.jpg?1") no-repeat scroll right bottom;
+    color: #2E10F2
+    overflow:auto;
+	}
+	.menugroup .button:hover {
+    background: none repeat scroll 0% 0% rgb(32, 178, 170);
+    opacity: 1.0;
+}
+.menugroup .button:hover {
+    background: -moz-linear-gradient(center top , rgb(102, 205, 170), rgb(0, 250, 154)) repeat scroll 0% 0%
+ 
+transparent;
+    border-color: rgb(0, 128, 128);
+}
+ 
+.menugroup .button {
+        opacity: 1.0;
+    font-size: 12pt;
+    font-family: Verdana,Helvetica,Arial,sans-serif;
+    display: inline-block;
+    padding: 1px;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(170, 170, 170);
+    background: none repeat scroll 0% 0% rgb(83, 205, 229);
+    
+}
+
+   
+
